@@ -1,0 +1,9 @@
+git commands
+
+git init -- to initialize project
+git status -- to know the status of my file (unstaged, untracked, staged)
+git add filename --  to register file before commit
+git commit -m "message description" -- message to the updated files
+git log -- to know the status of all the commits 
+git push origin master -- commiting code to my repository
+git diff -- to know the change done from last upadated code
