@@ -7,3 +7,4 @@ git commit -m "message description" -- message to the updated files
 git log -- to know the status of all the commits 
 git push origin master -- commiting code to my repository
 git diff -- to know the change done from last upadated code
+git diff --cached --to see the added changes after "git add file"
